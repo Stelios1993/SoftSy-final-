@@ -1,5 +1,5 @@
 public class Book {
-
+//new book
 	static Book books[]=new Book [10];
 	private String bookname;
 	private int numberOfpages;

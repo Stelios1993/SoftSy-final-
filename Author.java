@@ -1,5 +1,9 @@
 public class Author {
+<<<<<<< HEAD
 //new author
+=======
+//new
+>>>>>>> a1d9233d3ef1d6e9acd3594975dafd05c43ca2c0
 	static Author authors[]=new Author [10];
 	private String name;
 	private int publishedbooks;

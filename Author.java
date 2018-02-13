@@ -1,5 +1,5 @@
 public class Author {
-
+//new
 	static Author authors[]=new Author [10];
 	private String name;
 	private int publishedbooks;

@@ -1,5 +1,10 @@
 public class Book {
+<<<<<<< HEAD
 //new
+//neo
+=======
+//new book
+>>>>>>> cff7cfd2e8e6e3375b70e099dcd167f6165bc897
 	static Book books[]=new Book [10];
 	private String bookname;
 	private int numberOfpages;

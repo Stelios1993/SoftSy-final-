@@ -1,6 +1,6 @@
 //This is the final project
 import java.util.Scanner;
-
+//new
 public class Test {
     public static void main(String[] args) {
 		Scanner scanner = new Scanner (System.in);
